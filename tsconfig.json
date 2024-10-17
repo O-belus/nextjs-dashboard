@@ -21,7 +21,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+    "types": ["next", "next/types/global"]
   },
   "include": [
     "next-env.d.ts",
